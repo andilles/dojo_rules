@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+Learning GitHub. I love Sass too.
