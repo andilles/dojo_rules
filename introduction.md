@@ -1,1 +1,1 @@
-Learning GitHub. I love Sass too.
+Learning Git and GitHub. I love Sass too.
